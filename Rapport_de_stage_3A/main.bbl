@@ -1,0 +1,90 @@
+\begin{thebibliography}{10}
+
+\bibitem{lib2}
+https://attivonetworks.com/.
+\newblock Attivonetworks Website.
+
+\bibitem{lib21}
+https://commons.wikimedia.org/wiki/file:tables\_traverse.jpg.
+\newblock Image iptables.
+
+\bibitem{lib5}
+https://cymmetria.com/.
+\newblock Cymmetria Website.
+
+\bibitem{lib18}
+https://en.wikipedia.org/wiki/kill\_chain.
+\newblock Kill Chain article in Wikipedia.
+
+\bibitem{lib10}
+https://github.com/paralax/awesome-honeypots.
+\newblock An awesome list of honeypot resources.
+
+\bibitem{lib20}
+https://github.com/samratashok/deploy-deception.
+\newblock Deploy-Deception github.
+
+\bibitem{lib9}
+https://github.com/thinkst/canarytokens.
+\newblock Canary Tokens github.
+
+\bibitem{lib4}
+https://www.acalvio.com/product/.
+\newblock Alcavio Website.
+
+\bibitem{lib7}
+https://www.cert.at/.
+\newblock Austrian Cert Website.
+
+\bibitem{lib}
+https://www.crunchbase.com/organization/countercraft\#section-current-team.
+\newblock CounterCraft Website.
+
+\bibitem{lib24}
+https://www.gartner.com/en.
+\newblock Gartner website.
+
+\bibitem{lib11}
+https://www.secureworks.com/blog/dcept.
+\newblock DCEPT: An Open-Source Honeytoken Tripwire.
+
+\bibitem{lib17}
+Anna~Belak Augusto~Barros, Anton~Chuvakin.
+\newblock Applying deception technologies and techniques to improve threat
+  detection and response, 2019.
+\newblock Gartner Report.
+
+\bibitem{lib19}
+Thomas Erl.
+\newblock Service-oriented architecture: Concepts, technology \& design.
+\newblock about orchestration.
+
+\bibitem{lib23}
+Excellium-Services.
+\newblock https://excellium-services.com/blog/, 2019.
+\newblock Excellium Blog.
+
+\bibitem{lib16}
+Rajpreet~Kaur Gorka~Sadowski.
+\newblock Improve your threat detection function with deception technologies,
+  2019.
+\newblock Gartner Report.
+
+\bibitem{lib25}
+Lockheed Martin.
+\newblock
+  https://www.lockheedmartin.com/en-us/capabilities/cyber/cyber-kill-chain.html.
+\newblock Cyber Kill Chain.
+
+\bibitem{lib22}
+Saiyan~Saiyod Nattawat~Khamphakdee, Nunnapus~Benjamas.
+\newblock Improving intrusion detection system based on snort rules for network
+  probe attacks detection with association rules technique of data mining,
+  2016.
+
+\bibitem{lib26}
+Shodan.
+\newblock https://www.shodan.io/.
+\newblock Search engine for Internet-connected devices.
+
+\end{thebibliography}

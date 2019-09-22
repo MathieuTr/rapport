@@ -1,0 +1,106 @@
+\babel@toc {english}{}
+\contentsline {chapter}{Acknowledgements}{v}{Doc-Start}
+\contentsline {chapter}{Contents}{vii}{chapter*.1}
+\contentsline {chapter}{\numberline {1}Introduction}{1}{chapter.1}
+\contentsline {chapter}{\numberline {2}Excellium Services S.A.}{3}{chapter.2}
+\contentsline {section}{\numberline {2.1}Detailed presentation}{3}{section.2.1}
+\contentsline {section}{\numberline {2.2}Departments}{4}{section.2.2}
+\contentsline {subsection}{\numberline {2.2.1}Intrusion Test - Red Team}{4}{subsection.2.2.1}
+\contentsline {subsection}{\numberline {2.2.2}Infrastructure security services}{4}{subsection.2.2.2}
+\contentsline {subsection}{\numberline {2.2.3}Information Security Governance}{4}{subsection.2.2.3}
+\contentsline {subsection}{\numberline {2.2.4}Cybersecurity Operation Center}{4}{subsection.2.2.4}
+\contentsline {subsection}{\numberline {2.2.5}\gls {CERT}-XLM}{5}{subsection.2.2.5}
+\contentsline {subsubsection}{Tools used in CERT}{5}{subsection.2.2.5}
+\contentsline {subsubsection}{Discover of the team usual work}{5}{subsection.2.2.5}
+\contentsline {subsection}{\numberline {2.2.6}Organizational chart}{7}{subsection.2.2.6}
+\contentsline {chapter}{\numberline {3}Presentation of the project}{9}{chapter.3}
+\contentsline {section}{\numberline {3.1}Genesis of the project}{9}{section.3.1}
+\contentsline {subsection}{\numberline {3.1.1}Deception Technology: an emerging defense}{9}{subsection.3.1.1}
+\contentsline {subsection}{\numberline {3.1.2}Deception Technology: a detailed presentation}{10}{subsection.3.1.2}
+\contentsline {subsubsection}{Deception Items}{10}{subsection.3.1.2}
+\contentsline {subsubsection}{Deploying deception technology}{11}{subsection.3.1.2}
+\contentsline {subsubsection}{How does it work}{11}{subsection.3.1.2}
+\contentsline {subsection}{\numberline {3.1.3}Deception Technology: the variable part in the deployment}{12}{subsection.3.1.3}
+\contentsline {subsection}{\numberline {3.1.4}Deception Technology: pro and con}{13}{subsection.3.1.4}
+\contentsline {section}{\numberline {3.2}Goal of the project}{13}{section.3.2}
+\contentsline {section}{\numberline {3.3}Final deliverable}{14}{section.3.3}
+\contentsline {chapter}{\numberline {4}State of the Art}{15}{chapter.4}
+\contentsline {section}{\numberline {4.1}Deception System}{15}{section.4.1}
+\contentsline {subsection}{\numberline {4.1.1}General offer}{16}{subsection.4.1.1}
+\contentsline {subsection}{\numberline {4.1.2}Specific offer}{16}{subsection.4.1.2}
+\contentsline {subsection}{\numberline {4.1.3}Exploitation Model}{17}{subsection.4.1.3}
+\contentsline {subsection}{\numberline {4.1.4}Pricing}{17}{subsection.4.1.4}
+\contentsline {section}{\numberline {4.2}Deception Tools}{17}{section.4.2}
+\contentsline {subsection}{\numberline {4.2.1}Deploy-Deception \cite {lib20}}{17}{subsection.4.2.1}
+\contentsline {subsection}{\numberline {4.2.2}Canary Token \cite {lib9}}{18}{subsection.4.2.2}
+\contentsline {subsubsection}{What is it ?}{18}{subsection.4.2.2}
+\contentsline {subsubsection}{Pros and Cons}{19}{figure.4.1}
+\contentsline {subsection}{\numberline {4.2.3}Domain Controller Enticing Password Tripwire (DCEPT)\cite {lib10} \cite {lib11}}{20}{subsection.4.2.3}
+\contentsline {section}{\numberline {4.3}HoneyPot}{20}{section.4.3}
+\contentsline {section}{\numberline {4.4}Network Security Tool}{21}{section.4.4}
+\contentsline {subsection}{\numberline {4.4.1}Snort}{21}{subsection.4.4.1}
+\contentsline {subsection}{\numberline {4.4.2}Suricata}{22}{subsection.4.4.2}
+\contentsline {subsection}{\numberline {4.4.3}Iptables}{22}{subsection.4.4.3}
+\contentsline {subsubsection}{Saving rules}{23}{figure.4.5}
+\contentsline {section}{\numberline {4.5}Orchestration}{23}{section.4.5}
+\contentsline {subsection}{\numberline {4.5.1}Puppet}{23}{subsection.4.5.1}
+\contentsline {subsection}{\numberline {4.5.2}Debian Package}{24}{subsection.4.5.2}
+\contentsline {subsection}{\numberline {4.5.3}Bash script}{24}{subsection.4.5.3}
+\contentsline {section}{\numberline {4.6}Kill Chain}{24}{section.4.6}
+\contentsline {subsection}{\numberline {4.6.1}Reconnaissance}{25}{subsection.4.6.1}
+\contentsline {subsection}{\numberline {4.6.2}Weaponization}{25}{subsection.4.6.2}
+\contentsline {subsection}{\numberline {4.6.3}Delivery}{26}{subsection.4.6.3}
+\contentsline {subsection}{\numberline {4.6.4}Exploitation}{26}{subsection.4.6.4}
+\contentsline {subsection}{\numberline {4.6.5}Installation}{26}{subsection.4.6.5}
+\contentsline {subsection}{\numberline {4.6.6}Command and Control}{26}{subsection.4.6.6}
+\contentsline {subsection}{\numberline {4.6.7}Actions on Objective}{26}{subsection.4.6.7}
+\contentsline {chapter}{\numberline {5}Design of the solution}{31}{chapter.5}
+\contentsline {section}{\numberline {5.1}Network Configuration}{31}{section.5.1}
+\contentsline {section}{\numberline {5.2}Application selected}{33}{section.5.2}
+\contentsline {chapter}{\numberline {6}\gls {UAT} deployment}{35}{chapter.6}
+\contentsline {section}{\numberline {6.1}\gls {UAT} environment}{35}{section.6.1}
+\contentsline {section}{\numberline {6.2}Asking for the Virtual environment}{36}{section.6.2}
+\contentsline {subsection}{\numberline {6.2.1}The process}{36}{subsection.6.2.1}
+\contentsline {subsection}{\numberline {6.2.2}Network environment}{36}{subsection.6.2.2}
+\contentsline {section}{\numberline {6.3}Installation from scratch}{37}{section.6.3}
+\contentsline {subsection}{\numberline {6.3.1}Ubuntu Installation}{38}{subsection.6.3.1}
+\contentsline {subsubsection}{NTPD}{38}{subsection.6.3.1}
+\contentsline {subsubsection}{DNS}{38}{subsection.6.3.1}
+\contentsline {subsubsection}{Proxy}{38}{subsection.6.3.1}
+\contentsline {subsubsection}{Ipv6}{38}{subsection.6.3.1}
+\contentsline {subsubsection}{SSH}{38}{subsection.6.3.1}
+\contentsline {subsubsection}{Log forwarding}{38}{subsection.6.3.1}
+\contentsline {subsection}{\numberline {6.3.2}Forwarder Installation}{39}{subsection.6.3.2}
+\contentsline {subsubsection}{Iptables}{39}{subsection.6.3.2}
+\contentsline {subsubsection}{Suricata}{39}{subsection.6.3.2}
+\contentsline {subsubsection}{Canary Token}{39}{subsection.6.3.2}
+\contentsline {subsection}{\numberline {6.3.3}Heralding Installation}{39}{subsection.6.3.3}
+\contentsline {subsubsection}{Heralding}{39}{subsection.6.3.3}
+\contentsline {subsubsection}{Webhook}{40}{subsection.6.3.3}
+\contentsline {subsection}{\numberline {6.3.4}Windows 7 Install}{40}{subsection.6.3.4}
+\contentsline {subsubsection}{ntpd}{40}{subsection.6.3.4}
+\contentsline {subsubsection}{DNS}{40}{subsection.6.3.4}
+\contentsline {subsubsection}{Proxy}{40}{subsection.6.3.4}
+\contentsline {subsubsection}{Ipv6}{40}{subsection.6.3.4}
+\contentsline {subsubsection}{RDP}{40}{subsection.6.3.4}
+\contentsline {subsubsection}{Sysmon}{41}{subsection.6.3.4}
+\contentsline {subsubsection}{Share}{41}{subsection.6.3.4}
+\contentsline {section}{\numberline {6.4}Network installation}{41}{section.6.4}
+\contentsline {section}{\numberline {6.5}Documentation}{42}{section.6.5}
+\contentsline {section}{\numberline {6.6}Log Management}{42}{section.6.6}
+\contentsline {section}{\numberline {6.7}Accepting Test}{43}{section.6.7}
+\contentsline {chapter}{\numberline {7}Client deployment}{45}{chapter.7}
+\contentsline {section}{\numberline {7.1}Preparation}{45}{section.7.1}
+\contentsline {section}{\numberline {7.2}Deployment}{45}{section.7.2}
+\contentsline {chapter}{\numberline {8}Review of the Project}{47}{chapter.8}
+\contentsline {section}{\numberline {8.1}Axes of improvement}{47}{section.8.1}
+\contentsline {section}{\numberline {8.2}Project becoming}{47}{section.8.2}
+\contentsline {section}{\numberline {8.3}\gls {Excellium} Impact}{47}{section.8.3}
+\contentsline {chapter}{\numberline {9}Project Management}{49}{chapter.9}
+\contentsline {chapter}{\numberline {10}Conclusion}{51}{chapter.10}
+\contentsline {chapter}{Bibliographie / Webographie}{53}{chapter*.2}
+\contentsline {chapter}{List of Figures}{55}{chapter*.3}
+\contentsline {chapter}{List of Tables}{57}{chapter*.4}
+\contentsline {chapter}{Glossary}{59}{section*.5}
+\contentsline {chapter}{R\IeC {\'e}sum\IeC {\'e}}{61}{chapter*.6}
+\contentsline {chapter}{Abstract}{61}{chapter*.6}
